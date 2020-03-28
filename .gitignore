@@ -3,6 +3,8 @@ database_model/media/*
 database_model/model_operations/__pycache__/*
 database_model/model_operations/forms/__pycache__/*
 database_model/model_operations/migrations/__pycache__/*
+database_model/model_operations/migrations/*
 database_model/model_operations/models/__pycache__/*
 database_model/model_operations/views/__pycache__/*
+database_model/db.sqlite3
 
